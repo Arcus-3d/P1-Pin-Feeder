@@ -1,7 +1,7 @@
 ## P1-Pin feeder
 This was an experiment, and doesn't work yet.  The back tape slot doesn't print well due to the bridging required.
 
-![feeder.png](feeder.png)
+![feeder.png](images/feeder.png)
 
 The [Arcus-3D-P1 Pin feeder](https://hackaday.io/project/159792) is open source hardware. This github repository hosts the [OpenSCAD](http://www.openscad.org) source and the rendered STL images for quick access.
 
